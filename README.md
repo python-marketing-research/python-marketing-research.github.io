@@ -4,7 +4,7 @@ This book is not yet published, but will be available later in 2020.
 
 The repository with all code files, notebooks and data is at https://github.com/python-marketing-research/python-marketing-research-1ed
 
-The data files for each chapter are in the [data](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/data) subdirectory.
+The data files for each chapter are in the [Data](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/Data) subdirectory.
 
 The chapter notebooks are in the [notebooks](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/notebooks) subdirectory. Browse the chapter notebooks in Colab [here](https://colab.sandbox.google.com/github/python-marketing-research).
 
