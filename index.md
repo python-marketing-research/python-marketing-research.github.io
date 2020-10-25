@@ -2,7 +2,7 @@
 
 This [book](https://www.springer.com/gp/book/9783030497194) is not yet released, but will be available later in 2020.
 
-## Repository
+### Repository
 
 The repository with all code files, notebooks and data is at https://github.com/python-marketing-research/python-marketing-research-1ed
 
