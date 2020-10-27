@@ -25,4 +25,4 @@ adder = chapter2.Adder(3, 4)
 
 Any errors can be submitted to python.marketing.research at gmail.com.
 
-All known errors will be listed here.
+All known errors will be listed [here](https://python-marketing-research.github.io/errata.md).
