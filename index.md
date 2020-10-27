@@ -8,7 +8,7 @@ The repository with all code files, notebooks and data is at https://github.com/
 
 The data files for each chapter are in the [Data](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/Data) subdirectory.
 
-The chapter notebooks are in the [notebooks](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/notebooks) subdirectory. Browse the chapter notebooks in Colab [here](https://colab.sandbox.google.com/github/python-marketing-research).
+The chapter notebooks are in the [notebooks](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/notebooks) subdirectory. Browse the chapter notebooks in Colab [here](https://colab.research.google.com/github/python-marketing-research/python-marketing-research-1ed).
 
 The functions generated in each chapter are in the [python_marketing_research_functions subdirectory](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/python_marketing_research_functions). They can be installed using:
 ```
@@ -20,3 +20,9 @@ from python_marketing_research_functions import chapter2
 
 adder = chapter2.Adder(3, 4)
 ```
+
+### Errata
+
+Any errors can be submitted to python.marketing.research at gmail.com.
+
+All known errors will be listed here.
