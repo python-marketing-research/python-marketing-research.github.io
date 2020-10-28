@@ -4,7 +4,8 @@ This [book](https://www.springer.com/gp/book/9783030497194) is not yet released,
 
 ### Repository
 
-The repository with all code files, notebooks and data is at https://github.com/python-marketing-research/python-marketing-research-1ed
+The repository with all code files, notebooks and data is at:
+[https://github.com/python-marketing-research/python-marketing-research-1ed](https://github.com/python-marketing-research/python-marketing-research-1ed)
 
 The data files for each chapter are in the [Data](https://github.com/python-marketing-research/python-marketing-research-1ed/tree/master/Data) subdirectory.
 
