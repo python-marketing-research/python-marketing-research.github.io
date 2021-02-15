@@ -1,6 +1,6 @@
 # Welcome to Python for Marketing Research and Analytics
 
-This [book](https://www.springer.com/gp/book/9783030497194) is not yet released, but will be available later in 2020.
+This [book](https://www.springer.com/gp/book/9783030497194) is now [available](https://www.amazon.com/Python-Marketing-Research-Analytics-Schwarz/dp/3030497194).
 
 ### Repository
 
